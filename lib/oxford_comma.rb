@@ -1,5 +1,5 @@
 def oxford_comma(array)
-  array.each{ |i|  
+  array.each{ |i|
     puts "#{i}".join(",") }
 
 end
